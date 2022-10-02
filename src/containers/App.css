@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Semillir Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Semillir Regular'), url('Semillir-mLM5V.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Semillir Regular';
+        font-weight: bold;
+        color: #c2ad77;
+
+    }
